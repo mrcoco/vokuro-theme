@@ -1,0 +1,26 @@
+{
+	"name": "mrcoco/vokuro-theme",
+    "description": "This is a sample theme fro Vokuro modular",
+    "version": "0.1.15",
+    "keywords": [
+        "phalcon",
+        "framework",
+        "template",
+        "vokuro",
+        "modular"
+    ],
+    "type": "library",
+    "license": "BSD-3",
+    "homepage": "http://www.cempakaweb.com",
+    "authors" : [      
+        {
+            "name"  : "Dwi Agus Purwanto",
+            "email" : "dwiagus@cempakaweb.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "ext-phalcon": ">=3.0.0",
+        "mrcoco/vokuro-modular": "dev-master"
+    }
+}
